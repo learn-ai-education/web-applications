@@ -1,5 +1,5 @@
 {
-  "name": "learn.ai.front-office",
+  "name": "learn.ai-front-office",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "author": "HenriqueSenaDev",
   "dependencies": {
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
