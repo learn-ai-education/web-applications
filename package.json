@@ -5,6 +5,7 @@
   "author": "HenriqueSenaDev",
   "license": "ISC",
   "devDependencies": {
-    "typescript-config": "workspace:*"
+    "typescript-config": "workspace:*",
+    "lint": "workspace:*"
   }
 }

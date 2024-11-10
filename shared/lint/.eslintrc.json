@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    // Configures Prettier as a Eslint rule.
+    // Must be the last item.
+    "plugin:prettier/recommended"
+  ],
+  // Configures Eslint to work with TypeScript
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "@typescript-eslint"
+  ]
+}
