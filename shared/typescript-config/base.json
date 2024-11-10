@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@design-system/*": [
+        "../design-system/src/components/*"
+      ],
+      "@lint/*": [
+        "../lint/*"
+      ]
+    }
+  }
+}

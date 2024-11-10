@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "learn.ai ecosystem frontend web applications.",
   "author": "HenriqueSenaDev",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript-config": "workspace:*"
+  }
 }
